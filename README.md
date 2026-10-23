@@ -1,16 +1,27 @@
-## Hi there 👋
+# Daniel Kirkegaard Poulsen
 
-<!--
-**dkpoulsen/dkpoulsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer at Mastercard. I build production software that turns AI from a demo into a dependable system.
 
-Here are some ideas to get you started:
+## Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Applied AI and LLM engineering
+- RAG pipelines, agents, and vLLM
+- Secure-by-design software for restricted and air-gapped environments
+- Fintech, payments, and defence
+
+## Stack
+
+Python, Swift, Kotlin, Dart, C
+
+Azure DevOps, GitHub Actions, Jenkins
+
+Flutter, iOS, Android
+
+## Currently
+
+Senior Software Engineer at Mastercard, working on Betalingsservice and AI automation across the development workflow.
+
+## Links
+
+- LinkedIn: https://www.linkedin.com/in/dkpoulsen/
+- Location: Copenhagen, Denmark
